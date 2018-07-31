@@ -1,0 +1,26 @@
+[
+		{
+			"id": "strawberry-pudding",
+			"name": "strawberry-pudding",
+			"img": "strawberry-pudding.jpg",
+			"rating": 2.9
+		},
+		{
+			"id": "chicken curry",
+			"name": "chicken curry",
+			"img": "chickenCurry.jpg",
+			"rating": 2.9
+		},	
+		{
+			"id": "mutton curry",
+			"name": "mutton curry",
+			"img": "muttonCurry.jpg",
+			"rating": 2.9
+		},	
+		{
+			"id": "Panner Bhujia",
+			"name": "Panner Bhujia",
+			"img": "paneerCurry.jpg",
+			"rating": 2.9
+		}		
+]

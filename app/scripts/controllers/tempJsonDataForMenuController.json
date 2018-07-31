@@ -1,0 +1,27 @@
+var a = [
+		{
+			"id": 'strawberry-pudding',
+			"name": 'strawberry-pudding',
+			"img": 'strawberry-pudding.jpg',
+			"rating": '2.9'
+		},
+		{
+			"id": 'chicken curry',
+			"name": 'chicken curry',
+			img: 'strawberry-pudding.jpg',
+			rating: '2.9'
+		},	
+		{
+			id: 'mutton curry',
+			name: 'mutton curry',
+			img: 'strawberry-pudding.jpg',
+			rating: '2.9'
+		},	
+		{
+			id: 'Panner Bhujia',
+			name: 'Panner Bhujia',
+			img: 'strawberry-pudding.jpg',
+			rating: '2.9'
+		}		
+];
+var myJsonString = JSON.stringify(a);
